@@ -22,8 +22,3 @@
 //let lastnameUser = prompt('Ваша фамилия: ');
 //let gender = prompt('Какой у вас пол: ');
 
-let firstNameOfUser = form.elements.firstName;
-let lastNameOfUser = form.elements.lastName;
-let gender = form.elements.gender;
-
-alert(form.elements.firstName, form.elements.lastName, form.elements.gender);
